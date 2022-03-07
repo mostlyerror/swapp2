@@ -70,4 +70,5 @@ end
 
 gem "devise", "~> 4.8"
 
-gem "view_component", "~> 2.49"
+
+gem "rolify", "~> 6.0"
